@@ -1,3 +1,4 @@
+[![Code Climate](https://codeclimate.com/github/leopoldkwok/chat-example/badges/gpa.svg)](https://codeclimate.com/github/leopoldkwok/chat-example)
 Chat application
 ================
 
