@@ -1,6 +1,6 @@
 [![Code Climate](https://codeclimate.com/github/leopoldkwok/chat-example/badges/gpa.svg)](https://codeclimate.com/github/leopoldkwok/chat-example)
 Chat application
-================
+================ 
 
 Created a basic chat application to understand Node.js and Socket.io  
 
